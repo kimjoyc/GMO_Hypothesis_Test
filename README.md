@@ -38,7 +38,6 @@ The experiment's results did not provide enough evidence to support the alternat
 The repository contains the following files:
 
 - `main.R`: The R code used to perform the data analysis.
-- `data.csv`: The CSV file containing the raw data for the experiment.
 - `README.md`: This file, providing an overview of the experiment and its analysis.
 
 ## Usage

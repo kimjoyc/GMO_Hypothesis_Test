@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This repository contains the code and data for the Lima Bean Germination Experiment conducted by Joyce Kim for the ST 351 course under the guidance of Professor Juli Moore. The experiment aimed to compare the mean germination time of genetically modified (GM) lima beans with non-GM lima beans.
+This repository contains the code and data for the Lima Bean Germination Experiment. The experiment aimed to compare the mean germination time of genetically modified (GM) lima beans with non-GM lima beans.
 
 ## Method
 

@@ -12,6 +12,12 @@ The experiment involved randomizing the sample for each group, selecting 18 lima
 
 The data for the experiment is provided in the form of two vectors: `GMO` and `NONGMO`. These vectors contain the number of days taken for germination to occur for the respective groups of lima beans.
 
+![boxplot](https://github.com/kimjoyc/GMO_Hypothesis_Test/assets/88675769/1cbe0783-5ac4-4238-a713-516c99e6f00d)
+
+![germ](https://github.com/kimjoyc/GMO_Hypothesis_Test/assets/88675769/3ae71392-8f2f-4bf9-9fce-67646f1332fe)
+
+![sum_state](https://github.com/kimjoyc/GMO_Hypothesis_Test/assets/88675769/4fcfc399-17e4-4924-ae34-c46fa52b74a8)
+
 ## Analysis
 
 The analysis was performed using R language and the 'mosaic' package. The following steps were undertaken:
